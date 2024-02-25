@@ -54,5 +54,9 @@
   {
     "id": "piki",
     "endpoint": "https://pikinamada.com"
-  }
+  },
+  {
+    "id": "Julia",
+    "endpoint": "https://rpc.laliola.com"
+  }  
 ]
